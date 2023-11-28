@@ -5,11 +5,11 @@
   interactive way to test your reflexes!
 
 ## What I learned 
-
-  **Vue.js Basics**
-  **Vue.js Lifecycle**
-  **Event Handling**
-  **Conditional Rendering** 
+  
+    Vue.js Basics
+    Vue.js Lifecycle
+    Event Handling
+    Conditional Rendering
 
 ## Project setup
 ```
